@@ -1,5 +1,5 @@
 # Praktikum5
-#Kali ini kita akan mencoba membuat program tentang nilai data mahasiswa, dengan menggunakan Dectionari. Berikut ini adalah cara atau code:
+# Kali ini kita akan mencoba membuat program tentang nilai data mahasiswa, dengan menggunakan Dectionari. Berikut ini adalah cara atau code:
 
 print("PROGRAM INPUT NILAI")
 print("===================")
@@ -47,12 +47,16 @@ for item in nilai:
              .format(no=i, nim=item[0], nama=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5]))
 print("================================================================================")
 
-*Contoh Input
+* Contoh FlowChart
+
+![input end](https://github.com/devinovitasari99/Praktikum5/blob/master/gambar/FlowChart.PNG)
+
+* Contoh Input
 
 ![input end](https://github.com/devinovitasari99/Praktikum5/blob/master/gambar/Ss1.PNG)
 
 ![input end](https://github.com/devinovitasari99/Praktikum5/blob/master/gambar/Ss2.PNG)
 
-*Contoh Output
+* Contoh Output
 
 ![input end](https://github.com/devinovitasari99/Praktikum5/blob/master/gambar/SsRun.PNG)
